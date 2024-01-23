@@ -55,9 +55,7 @@ function updateRange() {
     case 'medium_term':
       time_range_display = 'last 6 months';
       break;
-    case 'long_term':
-      time_range_display = 'all time';
-      break;
+
   }
 }
 
